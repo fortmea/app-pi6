@@ -1,6 +1,6 @@
 ## Nome a definir
 #### App para o projeto integrador do sexto termo do curso de BSI - UNIFIO
-
+[![CodeQL - Análise do código](https://github.com/fortmea/app-pi6/actions/workflows/codeql-analysis.yml/badge.svg)](https://github.com/fortmea/app-pi6/actions/workflows/codeql-analysis.yml)
 ---
 
 ### Instruções
